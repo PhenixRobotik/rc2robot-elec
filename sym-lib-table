@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name rc2robot)(type Legacy)(uri ${KIPRJMOD}/libraries/rc2robot.lib)(options "")(descr ""))
+  (lib (name PhenixRobotik)(type Legacy)(uri ${KIPRJMOD}/phenix_kicad/library/PhenixRobotik.lib)(options "")(descr ""))
+)

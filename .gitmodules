@@ -1,0 +1,3 @@
+[submodule "phenix_kicad"]
+	path = phenix_kicad
+	url = https://github.com/PhenixRobotik/phenix_kicad
