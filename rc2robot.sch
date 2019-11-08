@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:rc2robot-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -114,7 +113,7 @@ L power:GND #PWR0113
 U 1 1 5DC4AFA5
 P 6600 3400
 F 0 "#PWR0113" H 6600 3150 50  0001 C CNN
-F 1 "GND" H 6605 3227 50  0000 C CNN
+F 1 "GND" H 6600 3250 50  0000 C CNN
 F 2 "" H 6600 3400 50  0001 C CNN
 F 3 "" H 6600 3400 50  0001 C CNN
 	1    6600 3400
@@ -165,7 +164,7 @@ U 1 1 5DC5FBBA
 P 9800 1500
 F 0 "J3" H 10030 1489 50  0000 L CNN
 F 1 "Conn_Debug" H 10030 1398 50  0000 L CNN
-F 2 "Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical" H 10200 200 50  0001 C CNN
+F 2 "Connector_JST:JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical" H 10200 200 50  0001 C CNN
 F 3 "~" H 12000 1300 50  0001 C CNN
 	1    9800 1500
 	1    0    0    -1  
@@ -191,4 +190,101 @@ Text Label 7100 3000 0    50   ~ 0
 TMS
 Text Label 7100 3100 0    50   ~ 0
 TCK
+$Comp
+L Device:C C4
+U 1 1 5DC5CA34
+P 6950 1500
+F 0 "C4" V 6900 1350 50  0000 C CNN
+F 1 "1u" V 6900 1600 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 6988 1350 50  0001 C CNN
+F 3 "~" H 6950 1500 50  0001 C CNN
+	1    6950 1500
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR02
+U 1 1 5DC5D087
+P 7100 1500
+F 0 "#PWR02" H 7100 1250 50  0001 C CNN
+F 1 "GND" V 7100 1400 50  0000 R CNN
+F 2 "" H 7100 1500 50  0001 C CNN
+F 3 "" H 7100 1500 50  0001 C CNN
+	1    7100 1500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6700 1500 6800 1500
+Connection ~ 6700 1500
+Text Label 6000 3100 2    50   ~ 0
+USART1_TX
+Text Label 6000 3200 2    50   ~ 0
+USART1_RX
+Text Label 9500 1700 2    50   ~ 0
+USART1_TX
+Text Label 9500 1600 2    50   ~ 0
+USART1_RX
+$Comp
+L Connector_Generic:Conn_01x03 J5
+U 1 1 5DC5F475
+P 9700 4100
+F 0 "J5" H 9618 3775 50  0000 C CNN
+F 1 "Conn_01x03" H 9618 3866 50  0000 C CNN
+F 2 "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical" H 9700 4100 50  0001 C CNN
+F 3 "~" H 9700 4100 50  0001 C CNN
+	1    9700 4100
+	1    0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR03
+U 1 1 5DC5FE35
+P 9500 4200
+F 0 "#PWR03" H 9500 3950 50  0001 C CNN
+F 1 "GND" H 9500 4050 50  0000 C CNN
+F 2 "" H 9500 4200 50  0001 C CNN
+F 3 "" H 9500 4200 50  0001 C CNN
+	1    9500 4200
+	1    0    0    -1  
+$EndComp
+Text Label 9500 4000 2    50   ~ 0
+USART1_TX
+Text Label 9500 4100 2    50   ~ 0
+USART1_RX
+Text Label 7100 1700 0    50   ~ 0
+tim2_ch1|tim2_ch2
+Text Label 7100 1900 0    50   ~ 0
+tim2_ch3|tim2_ch4
+NoConn ~ 7100 1800
+Text Label 7100 2100 0    50   ~ 0
+tim3_ch2|tim3_ch3
+NoConn ~ 7100 2200
+Text Label 7100 2500 0    50   ~ 0
+tim1_ch1|tim1_ch4
+Text Label 7100 2300 0    50   ~ 0
+tim3_ch1|tim3_ch4
+Text Label 7100 2000 0    50   ~ 0
+tim15_ch2|tim15_ch1
+Text Label 8000 2500 0    50   ~ 0
+Aux1
+Text Label 8000 2300 0    50   ~ 0
+Gear
+Text Label 8000 2100 0    50   ~ 0
+Rudd
+Text Label 8000 2000 0    50   ~ 0
+Elev
+Text Label 8000 1900 0    50   ~ 0
+Aile
+Text Label 8000 1700 0    50   ~ 0
+Thro
+Wire Wire Line
+	7100 1700 8000 1700
+Wire Wire Line
+	7100 1900 8000 1900
+Wire Wire Line
+	7100 2000 8000 2000
+Wire Wire Line
+	7100 2100 8000 2100
+Wire Wire Line
+	7100 2300 8000 2300
+Wire Wire Line
+	7100 2500 8000 2500
 $EndSCHEMATC

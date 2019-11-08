@@ -1,4 +1,4 @@
-16153798920669812
+16113074650960470
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -9611,54 +9611,12 @@ connector Hirose  top entry
 17
 16
 Connector_Hirose
-Hirose_DF63-1P-3.96DSA_1x01_P3.96mm_Horizontal
-Molex DF63 through hole, DF63-1P-3.96DSA, 1 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
-connector Hirose  top entry
-0
-1
-1
-Connector_Hirose
-Hirose_DF63-2P-3.96DSA_1x02_P3.96mm_Horizontal
-Molex DF63 through hole, DF63-2P-3.96DSA, 2 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
-connector Hirose  top entry
-0
-2
-2
-Connector_Hirose
-Hirose_DF63-3P-3.96DSA_1x03_P3.96mm_Horizontal
-Molex DF63 through hole, DF63-3P-3.96DSA, 3 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
-connector Hirose  top entry
-0
-3
-3
-Connector_Hirose
-Hirose_DF63-4P-3.96DSA_1x04_P3.96mm_Horizontal
-Molex DF63 through hole, DF63-4P-3.96DSA, 4 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
-connector Hirose  top entry
-0
-4
-4
-Connector_Hirose
-Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Horizontal
-Molex DF63 through hole, DF63-5P-3.96DSA, 5 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
-connector Hirose  top entry
-0
-5
-5
-Connector_Hirose
 Hirose_DF63-5P-3.96DSA_1x05_P3.96mm_Vertical
 Hirose DF63 through hole, DF63-5P-3.96DSA, 5 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
 connector Hirose DF63 vertical
 0
 5
 5
-Connector_Hirose
-Hirose_DF63-6P-3.96DSA_1x06_P3.96mm_Horizontal
-Molex DF63 through hole, DF63-6P-3.96DSA, 6 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
-connector Hirose  top entry
-0
-6
-6
 Connector_Hirose
 Hirose_DF63-6P-3.96DSA_1x06_P3.96mm_Vertical
 Hirose DF63 through hole, DF63-6P-3.96DSA, 6 Pins per row (https://www.hirose.com/product/en/products/DF63/), generated with kicad-footprint-generator
@@ -17297,26 +17255,12 @@ connector Molex Sabre top entry
 90
 6
 Connector_Molex
-Molex_SlimStack_52991-0200_2x10_P0.50mm_Vertical
-Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 52991-0200, 20 Pins (http://www.molex.com/pdm_docs/sd/529910308_sd.pdf), generated with kicad-footprint-generator
-connector Molex SlimStack side entry
-0
-20
-20
-Connector_Molex
 Molex_SlimStack_52991-0208_2x10_P0.50mm_Vertical
 Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 52991-0208, 20 Pins (http://www.molex.com/pdm_docs/sd/529910308_sd.pdf), generated with kicad-footprint-generator
 connector Molex SlimStack vertical
 0
 20
 20
-Connector_Molex
-Molex_SlimStack_52991-0300_2x15_P0.50mm_Vertical
-Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 52991-0300, 30 Pins (http://www.molex.com/pdm_docs/sd/529910308_sd.pdf), generated with kicad-footprint-generator
-connector Molex SlimStack side entry
-0
-30
-30
 Connector_Molex
 Molex_SlimStack_52991-0308_2x15_P0.50mm_Vertical
 Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 52991-0308, 30 Pins (http://www.molex.com/pdm_docs/sd/529910308_sd.pdf), generated with kicad-footprint-generator
@@ -17325,26 +17269,12 @@ connector Molex SlimStack vertical
 30
 30
 Connector_Molex
-Molex_SlimStack_52991-0400_2x20_P0.50mm_Vertical
-Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 52991-0400, 40 Pins (http://www.molex.com/pdm_docs/sd/529910308_sd.pdf), generated with kicad-footprint-generator
-connector Molex SlimStack side entry
-0
-40
-40
-Connector_Molex
 Molex_SlimStack_52991-0408_2x20_P0.50mm_Vertical
 Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 52991-0408, 40 Pins (http://www.molex.com/pdm_docs/sd/529910308_sd.pdf), generated with kicad-footprint-generator
 connector Molex SlimStack vertical
 0
 40
 40
-Connector_Molex
-Molex_SlimStack_52991-0500_2x25_P0.50mm_Vertical
-Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 52991-0500, 50 Pins (http://www.molex.com/pdm_docs/sd/529910308_sd.pdf), generated with kicad-footprint-generator
-connector Molex SlimStack side entry
-0
-50
-50
 Connector_Molex
 Molex_SlimStack_52991-0508_2x25_P0.50mm_Vertical
 Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 52991-0508, 50 Pins (http://www.molex.com/pdm_docs/sd/529910308_sd.pdf), generated with kicad-footprint-generator
@@ -17353,13 +17283,6 @@ connector Molex SlimStack vertical
 50
 50
 Connector_Molex
-Molex_SlimStack_52991-0600_2x30_P0.50mm_Vertical
-Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 52991-0600, 60 Pins (http://www.molex.com/pdm_docs/sd/529910308_sd.pdf), generated with kicad-footprint-generator
-connector Molex SlimStack side entry
-0
-60
-60
-Connector_Molex
 Molex_SlimStack_52991-0608_2x30_P0.50mm_Vertical
 Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 52991-0608, 60 Pins (http://www.molex.com/pdm_docs/sd/529910308_sd.pdf), generated with kicad-footprint-generator
 connector Molex SlimStack vertical
@@ -17367,26 +17290,12 @@ connector Molex SlimStack vertical
 60
 60
 Connector_Molex
-Molex_SlimStack_52991-0700_2x35_P0.50mm_Vertical
-Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 52991-0700, 70 Pins (http://www.molex.com/pdm_docs/sd/529910308_sd.pdf), generated with kicad-footprint-generator
-connector Molex SlimStack side entry
-0
-70
-70
-Connector_Molex
 Molex_SlimStack_52991-0708_2x35_P0.50mm_Vertical
 Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 52991-0708, 70 Pins (http://www.molex.com/pdm_docs/sd/529910308_sd.pdf), generated with kicad-footprint-generator
 connector Molex SlimStack vertical
 0
 70
 70
-Connector_Molex
-Molex_SlimStack_52991-0800_2x40_P0.50mm_Vertical
-Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 52991-0800, 80 Pins (http://www.molex.com/pdm_docs/sd/529910308_sd.pdf), generated with kicad-footprint-generator
-connector Molex SlimStack side entry
-0
-80
-80
 Connector_Molex
 Molex_SlimStack_52991-0808_2x40_P0.50mm_Vertical
 Molex SlimStack Fine-Pitch SMT Board-to-Board Connectors, 52991-0808, 80 Pins (http://www.molex.com/pdm_docs/sd/529910308_sd.pdf), generated with kicad-footprint-generator
@@ -57617,13 +57526,6 @@ NXP LGA NoLead
 8
 8
 Package_LGA
-NXP_MPL115A1_LGA-8_3x5mm_P1.25mm
-NXP MPL115A1 LGA, 8 Pin (https://www.nxp.com/docs/en/data-sheet/MPL115A1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-NXP LGA NoLead
-0
-8
-8
-Package_LGA
 ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y
 ST  HLGA, 10 Pin (https://www.st.com/resource/en/datasheet/lps25hb.pdf#page=46), generated with kicad-footprint-generator ipc_noLead_generator.py
 ST HLGA NoLead
@@ -66268,13 +66170,6 @@ pressure sensor automotive honeywell
 0
 3
 3
-Sensor_Voltage
-LEM_LV25-P
-LEM LV25-P Voltage transducer, https://www.lem.com/sites/default/files/products_datasheets/lv_25-p.pdf
-LEM Hall Effect Voltage transducer
-0
-5
-5
 Socket
 3M_Textool_240-1288-00-0602J_2x20_P2.54mm
 3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)
@@ -69950,83 +69845,6 @@ THT terminal block RND 205-00308 pitch 10mm size 115x8.1mm^2 drill 1.3mm pad 2.5
 0
 12
 12
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_1-282834-0_1x10_P2.54mm_Horizontal
-Terminal Block TE 1-282834-0, 10 pins, pitch 2.54mm, size 25.86x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 1-282834-0 pitch 2.54mm size 25.86x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-10
-10
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_1-282834-1_1x11_P2.54mm_Horizontal
-Terminal Block TE 1-282834-1, 11 pins, pitch 2.54mm, size 28.4x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 1-282834-1 pitch 2.54mm size 28.4x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-11
-11
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_1-282834-2_1x12_P2.54mm_Horizontal
-Terminal Block TE 1-282834-2, 12 pins, pitch 2.54mm, size 30.94x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 1-282834-2 pitch 2.54mm size 30.94x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-12
-12
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal
-Terminal Block TE 282834-2, 2 pins, pitch 2.54mm, size 5.54x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 282834-2 pitch 2.54mm size 5.54x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-2
-2
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_282834-3_1x03_P2.54mm_Horizontal
-Terminal Block TE 282834-3, 3 pins, pitch 2.54mm, size 8.08x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 282834-3 pitch 2.54mm size 8.08x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-3
-3
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_282834-4_1x04_P2.54mm_Horizontal
-Terminal Block TE 282834-4, 4 pins, pitch 2.54mm, size 10.620000000000001x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 282834-4 pitch 2.54mm size 10.620000000000001x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-4
-4
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_282834-5_1x05_P2.54mm_Horizontal
-Terminal Block TE 282834-5, 5 pins, pitch 2.54mm, size 13.16x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 282834-5 pitch 2.54mm size 13.16x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-5
-5
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_282834-6_1x06_P2.54mm_Horizontal
-Terminal Block TE 282834-6, 6 pins, pitch 2.54mm, size 15.7x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 282834-6 pitch 2.54mm size 15.7x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-6
-6
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_282834-7_1x07_P2.54mm_Horizontal
-Terminal Block TE 282834-7, 7 pins, pitch 2.54mm, size 18.240000000000002x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 282834-7 pitch 2.54mm size 18.240000000000002x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-7
-7
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_282834-8_1x08_P2.54mm_Horizontal
-Terminal Block TE 282834-8, 8 pins, pitch 2.54mm, size 20.78x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 282834-8 pitch 2.54mm size 20.78x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-8
-8
-TerminalBlock_TE-Connectivity
-TerminalBlock_TE_282834-9_1x09_P2.54mm_Horizontal
-Terminal Block TE 282834-9, 9 pins, pitch 2.54mm, size 23.32x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
-THT Terminal Block TE 282834-9 pitch 2.54mm size 23.32x6.5mm^2 drill 1.1mm pad 2.1mm
-0
-9
-9
 TerminalBlock_WAGO
 TerminalBlock_WAGO_236-101_1x01_P5.00mm_45Degree
 Terminal Block WAGO 236-101, 45Degree (cable under 45degree), 1 pins, pitch 5mm, size 6.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
